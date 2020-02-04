@@ -21,4 +21,6 @@ Every unique ID on this file ( for example, the first unique ID should be ```NC0
 
 Hint: The length of your list should be ```211```
 
+# Spoiler
+
 **Solved using**: ```Regexp_JSON = r'(?<=")[a-zA-Z0-9]{5}(?=":{)'```
